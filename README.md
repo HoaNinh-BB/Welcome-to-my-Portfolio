@@ -2,17 +2,14 @@
 
 ![Alt text](portrait-3.jpg)
 
-
 - [Fulbrighter](https://vn.usembassy.gov/education/fulbright-program-in-vietnam/), Environmental and Sustainability Professional
 
-
-<p align="center">
-  <img src="portrait-3.jpg" alt="Hoa Ninh" style="float: left; margin-right: 10px;" />
-  <ul>
-    <li><a href="https://vn.usembassy.gov/education/fulbright-program-in-vietnam/">Fulbrighter</a>, Environmental and Sustainability Professional</li>
-  </ul>
-</p>
-
+<table>
+  <tr>
+    <td><img src="portrait-3.jpg" alt="Hoa Ninh" /></td>
+    <td><a href="https://vn.usembassy.gov/education/fulbright-program-in-vietnam/">Fulbrighter</a>, Environmental and Sustainability Professional</td>
+  </tr>
+</table>
 
 
 ## Experience
