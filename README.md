@@ -1,7 +1,36 @@
 # Hoa Ninh
-*Fulbright | Environmental Consultant*
-
 ![alt text](portrait.jpg)
+
+- 🌱 Environmental and Sustainability Professional
+- 📫 How to reach me: hoathanh.ninh@gmail.com | [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
+- 🔭 Working on: Improving Private Sector Competitiveness with ESG frameworks
+- 🌍 Based in Amherst, MA
+
+## Experience
+
+- ESG Consultant at USAID IPSC Project
+- Environmental Consultant at ERM, Vietnam
+
+## Certifications
+
+- Offshore Wind Professional Certificate, UMass Amherst
+- Introduction to Sustainable Finance, UN CC:Learn
+- Project Management: Professional Certificate, Google (Ongoing)
+
+## Education
+
+- MSc in Environmental Conservation, UMass Amherst (Expected May 2024)
+- Bachelor of Engineering in Resources and Environment Management, Vietnam National University
+
+## Skills
+
+- Environmental Impact and Biodiversity Assessment, Sustainable Finance, GIS and Spatial Analysis
+
+## Languages
+
+- English, Vietnamese
+
+
 
 
 
@@ -11,17 +40,3 @@
 * Bachelor of Engineering (Resources and Environment Management), *Vietnam National University - HCMC University of Technology*, Sep 2014 - Sep 2018
 
 
-# [Project 1: Crypto Sentiment Analysis] (http://youtube.com/dataprofessor)
-
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm medium=referral&utm_content=creditCopyText">André François Mckenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?
-utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Output:* sentiment of cryptocurrency
-#[Project 2: Crypto Trading Bot] (http://youtube.com/dataprofessor)
-|[alt text] (maxim-hopman-fiXLQXAhCfk-unsplash. jpg)
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?
-utm source=unsplash&utm medium=referral&utm content=creditCopyText">Unsplash</a>
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* #outpt:* ratorena stories puying and selling
