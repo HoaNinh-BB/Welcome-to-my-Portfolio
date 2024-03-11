@@ -1,6 +1,6 @@
 # Hoa Ninh
 
-![Alt text](portrait-3.jpg")
+![Alt text](portrait-3.jpg)
 
 
 - [Fulbrighter](https://vn.usembassy.gov/education/fulbright-program-in-vietnam/), Environmental and Sustainability Professional
