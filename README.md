@@ -1,44 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
-</head>
-<body>
-    <header>
-        <h1>Your Name</h1>
-        <p>Developer | Designer | Tech Enthusiast</p>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="projects.html">Projects</a></li>
-            <li><a href="resume.html">Resume</a></li>
-            <li><a href="contact.html">Contact</a></li>
-        </ul>
-    </nav>
-    <main>
-        <section id="about">
-            <h2>About Me</h2>
-            <p>This is a brief introduction about yourself. Highlight what you do, your skills, and your goals.</p>
-        </section>
-        <section id="projects">
-            <h2>Featured Projects</h2>
-            <p>A brief overview of your best projects. Include links to more details on the projects page.</p>
-        </section>
-    </main>
-    <footer>
-        <p>Your Name | <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-    </footer>
-</body>
-</html>
-
-
-
 # Hoa Ninh
 *Fulbright | Environmental Consultant*
 
+![alt text] (andre-francois-mckenzie-iGYiBhdNTpE-unsplash. jpg)
 
 
 
