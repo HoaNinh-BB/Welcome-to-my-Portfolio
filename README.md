@@ -1,2 +1,2 @@
 # portfolio
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
