@@ -1,7 +1,7 @@
 # Hoa Ninh
 *Fulbright | Environmental Consultant*
 
-![alt text] (portrait.jpg)
+![alt text](portrait.jpg)
 
 
 
