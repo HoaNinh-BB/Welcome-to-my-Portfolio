@@ -11,8 +11,10 @@
 ## Experience
 
 - ESG Consultant at [USAID IPSC Project](https://esg.business.gov.vn/evaluate)
-- Environmental Consultant at [ERM](https://www.erm.com) [View my projects](https://hoaninh-bb.github.io/Projects/)
+- Environmental Consultant at [ERM](https://www.erm.com) 
 - CSRCB Program Assistant at [GRI](https://www.globalreporting.org)
+
+[View my projects](https://hoaninh-bb.github.io/Projects/)
 
 ## Education
 
