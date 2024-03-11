@@ -1,3 +1,2 @@
 # portfolio
-gem "minima"
-$ bundle
+theme: jekyll-theme-minima
