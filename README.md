@@ -3,7 +3,6 @@
 
 - 🌱 Fulbrighter, Environmental and Sustainability Professional
 - 📫 How to reach me: hoathanh.ninh@gmail.com | [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
-- 🔭 Working on: Improving Private Sector Competitiveness with ESG frameworks
 - 🌍 Based in Amherst, MA
 
 ## Experience
