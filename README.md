@@ -15,7 +15,11 @@
 
 ## Skills
 
-- Environmental Impact and Biodiversity Assessment, Sustainable Finance, GIS and Spatial Analysis
+- Environmental Impact Assessment
+- Biodiversity Impact Assessment
+- Environmental Compliance
+- Sustainable Finance
+- GIS and Spatial Analyst
 
 ## Languages
 
