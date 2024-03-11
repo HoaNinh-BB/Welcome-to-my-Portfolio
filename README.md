@@ -11,12 +11,6 @@
 - ESG Consultant at USAID IPSC Project
 - Environmental Consultant at ERM, Vietnam
 
-## Certifications
-
-- Offshore Wind Professional Certificate, UMass Amherst
-- Introduction to Sustainable Finance, UN CC:Learn
-- Project Management: Professional Certificate, Google (Ongoing)
-
 ## Education
 
 - MSc in Environmental Conservation, UMass Amherst (Expected May 2024)
