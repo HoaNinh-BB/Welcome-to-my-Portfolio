@@ -1,14 +1,13 @@
 # Hoa Ninh
-![alt text](portrait.jpg)
-
 - 🌱 Fulbrighter, Environmental and Sustainability Professional
 - 📫 How to reach me: hoathanh.ninh@gmail.com | [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
-- 🌍 Based in Amherst, MA
+- 🌍 Based in MA, the USA
 
 ## Experience
 
 - ESG Consultant at USAID IPSC Project
-- Environmental Consultant at ERM, Vietnam
+- Environmental Consultant at [ERM](https://www.erm.com)
+- CSRCB Program Assistant at [GRI](https://www.globalreporting.org)
 
 ## Education
 
