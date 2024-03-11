@@ -2,10 +2,14 @@
 
 <table>
   <tr>
-    <td><img src="portrait-3.jpg" alt="Hoa Ninh" /></td>
-    <td><a href="https://vn.usembassy.gov/education/fulbright-program-in-vietnam/">Fulbrighter</a>, Environmental and Sustainability Professional</td>
+    <td><img src="portrait-3.jpg" alt="Hoa Ninh" width="150" /></td>
+    <td>
+      <h2>Hoa Ninh</h2>
+      <p><a href="https://vn.usembassy.gov/education/fulbright-program-in-vietnam/">Fulbrighter</a>, Environmental and Sustainability Professional</p>
+    </td>
   </tr>
 </table>
+
 
 
 ## Experience
