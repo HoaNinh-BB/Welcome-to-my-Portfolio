@@ -1,7 +1,7 @@
 # Hoa Ninh
 *Fulbright | Environmental Consultant*
 
-![alt text] (andre-francois-mckenzie-iGYiBhdNTpE-unsplash. jpg)
+![alt text] (portrait.jpg)
 
 
 
