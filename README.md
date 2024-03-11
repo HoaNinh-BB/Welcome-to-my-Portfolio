@@ -5,6 +5,20 @@
 
 - [Fulbrighter](https://vn.usembassy.gov/education/fulbright-program-in-vietnam/), Environmental and Sustainability Professional
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/yourusername/yourrepository/blob/main/path/to/image.png?raw=true" alt="Hoa Ninh" style="width: 150px;"/>
+    </td>
+    <td>
+      <strong>Hoa Ninh</strong><br>
+      Fulbrighter, Environmental and Sustainability Professional
+    </td>
+  </tr>
+</table>
+
+
 ## Experience
 
 - ESG Consultant at USAID IPSC Project
