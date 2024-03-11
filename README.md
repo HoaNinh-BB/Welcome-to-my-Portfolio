@@ -1,6 +1,6 @@
 <img src="portrait-3.jpg" alt="Hoa Ninh" width="200" align="left" style="margin-right: 20px;"/>
 
-## Hoa Ninh
+### Hoa Ninh
 [Fulbrighter](https://vn.usembassy.gov/education/fulbright-program-in-vietnam/), Environmental and Sustainability Professional
 <br clear="left"/>
 
