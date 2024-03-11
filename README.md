@@ -26,6 +26,7 @@
 - English, Vietnamese
 
 ## How to reach me: 
-- hoathanh.ninh@gmail.com [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
+- hoathanh.ninh@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
 
 
