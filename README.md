@@ -11,9 +11,9 @@
 
 ## Education
 
-- MSc in Environmental Conservation, UMass Amherst (Expected May 2024)
+- MSc in Environmental Conservation, UMass Amherst (May 2024)
 - Offshore Wind Professional Certificate, UMass Amherst (Aug 2023)
-- Bachelor of Engineering in Resources and Environment Management, Vietnam National University
+- BE in Resources and Environment Management, Vietnam National University
 
 ## Skills
 
