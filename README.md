@@ -1,12 +1,9 @@
-<table border="0">
-  <tr>
-    <td style="border: none;"><img src="portrait-3.jpg" alt="Hoa Ninh" width="150" /></td>
-    <td style="border: none; vertical-align: top;">
-      <h2 style="margin: 0;">Hoa Ninh</h2>
-      <p><a href="https://vn.usembassy.gov/education/fulbright-program-in-vietnam/">Fulbrighter</a>, Environmental and Sustainability Professional</p>
-    </td>
-  </tr>
-</table>
+<img src="portrait-3.jpg" alt="Hoa Ninh" width="200" align="left" style="margin-right: 20px;"/>
+
+### Hoa Ninh
+Fulbrighter, Environmental and Sustainability Professional
+
+<br clear="left"/>
 
 
 
