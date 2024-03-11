@@ -1,7 +1,5 @@
 # Hoa Ninh
-- 🌱 Fulbrighter, Environmental and Sustainability Professional
-- 📫 How to reach me: hoathanh.ninh@gmail.com [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
-- 🌍 Based in MA, the USA
+- Fulbrighter, Environmental and Sustainability Professional
 
 ## Experience
 
@@ -23,5 +21,7 @@
 
 - English, Vietnamese
 
+## How to reach me: 
+- hoathanh.ninh@gmail.com [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
 
 
