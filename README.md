@@ -1,7 +1,7 @@
 # Hoa Ninh
-- Fulbrighter, Environmental and Sustainability Professional
+- [Fulbrighter](https://vn.usembassy.gov/education/fulbright-program-in-vietnam/), Environmental and Sustainability Professional
 
-## Experience
+## Experiencefu
 
 - ESG Consultant at USAID IPSC Project
 - Environmental Consultant at [ERM](https://www.erm.com)
@@ -26,6 +26,7 @@
 - English, Vietnamese
 
 ## How to reach me
+
 - hoathanh.ninh@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
 
