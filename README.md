@@ -5,10 +5,6 @@
 
 [Resume](https://drive.google.com/file/d/1Z-EdUtZq3E0d6-JUR0BeZa5l-FgR6S3w/view?usp=sharing)
 
-hoathanh.ninh@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
-
 <br clear="left"/>
 
 
@@ -41,5 +37,10 @@ hoathanh.ninh@gmail.com
 
 - English, Vietnamese
 
+## How to reach me
+
+hoathanh.ninh@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/hoa-ninh-206193162/)
 
 
