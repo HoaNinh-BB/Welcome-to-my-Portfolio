@@ -10,7 +10,6 @@
 
 
 
-
 ## Experience
 
 - ESG Consultant at [USAID IPSC Project](https://esg.business.gov.vn/evaluate)
@@ -27,8 +26,8 @@
 
 ## Skills
 
-- Environmental Impact Assessment
 - Biodiversity Impact Assessment
+- Environmental Impact Assessment
 - Environmental Compliance
 - Sustainable Finance
 - GIS and Spatial Analyst
